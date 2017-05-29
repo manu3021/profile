@@ -1,0 +1,8 @@
+name: custom xml read
+description: A simple module to read xml data .
+core: 8.x
+package: Custom
+dependencies:
+- node
+- block
+type: module

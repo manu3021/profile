@@ -1,0 +1,5 @@
+name: lofi Feeds Import
+type: module
+description: Import nodes from external feeds
+core: 8.x
+package: lowfidelity

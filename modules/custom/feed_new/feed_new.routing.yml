@@ -1,0 +1,6 @@
+feed_page:
+  path: '/feed'
+  defaults:
+    _controller: 'Drupal\feed_new\Controller\feedController::feedPage'
+  requirements:
+    _permission: 'view content'

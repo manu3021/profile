@@ -1,0 +1,7 @@
+chad_page:
+  path: '/feed'
+  defaults:
+    _controller: 'Drupal\chad\Controller\ChadController::feedCall'
+  requirements:
+    _permission: 'view content'
+
